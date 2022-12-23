@@ -9,7 +9,7 @@
             <module3>90</module3>
         </scores>
     </student>
-    <student ind="2">
+    <student id="2">
         <firstName>Wirt</firstName>
         <lastName>Wood</lastName>
         <certificate>True</certificate>
